@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	
+	<empresa id="1">
+		<nombre>Empresa X</nombre>
+		<cif>A45673829</cif>
+		<direccion> C\ Ramos Puente 40</direccion>
+		<localidad>Almería</localidad>
+		<provincia>Almería</provincia>
+		<cpostal>04008</cpostal>
+		<telefono>950234567</telefono> 
+		<email>empresax@dominiox.es</email>
+		<web>www.dominiox.es</web>
+	</empresa>

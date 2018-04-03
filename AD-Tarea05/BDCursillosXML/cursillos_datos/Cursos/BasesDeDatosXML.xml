@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+	<curso id="3">
+		<nombre>Bases de Datos XML</nombre>
+		<precio cuota="trimestral" moneda="euro">80</precio>
+		<plazas>18</plazas>
+		<comienzo>1/2/2012</comienzo>
+		<fin>31/7/2012</fin>
+		<dias>Martes y Jueves</dias> 
+		<horainicio>9</horainicio>
+		<horafin>14</horafin>
+		<profesor>Isabel C. Granados</profesor>
+		<aula>2</aula>
+	</curso>

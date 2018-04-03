@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	
+	<profesor id="4">
+		<nombre>Roberto García</nombre>
+		<dni>27543123</dni>
+		<email>roberto.garcia@dominiox.es</email>
+	</profesor>

@@ -1,0 +1,24 @@
+22:09:11.819  INFO  [lib Cursillos] Qizx 4.4p2 creating new XML Library in X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos
+22:09:11.819  INFO  [lib Cursillos] create storage in X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos\contents.qdb
+22:09:11.835  INFO  [lib Cursillos] storage created
+22:09:12.054  INFO  [lib Cursillos] library creation done
+22:09:12.116  INFO  [lib Cursillos] Cursillos (session 1) error parsing document file:///X:/TAREAS/Rodriguez_Gutierrez_Felipe_AD05_Tarea/AD-Tarea05/BDCursillosXML/cursillos_datosAulas (/Aulas): X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\BDCursillosXML\cursillos_datosAulas (El sistema no puede encontrar el archivo especificado)
+22:10:46.216  INFO  [lib Cursillos] Library opened by Qizx 4.4p2
+22:10:46.216  INFO  [lib Cursillos]  location X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos
+22:10:46.216  INFO  [lib Cursillos]  document storage version=5, lastBId=7, BCount=7, maxA=502
+22:10:46.326  INFO  [lib Cursillos] Cursillos (session 1) error parsing document file:///X:/TAREAS/Rodriguez_Gutierrez_Felipe_AD05_Tarea/AD-Tarea05/BDCursillosXML/cursillos_datosAulas (/Aulas): X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\BDCursillosXML\cursillos_datosAulas (El sistema no puede encontrar el archivo especificado)
+22:11:07.965  INFO  [lib Cursillos] Library opened by Qizx 4.4p2
+22:11:07.965  INFO  [lib Cursillos]  location X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos
+22:11:07.965  INFO  [lib Cursillos]  document storage version=5, lastBId=7, BCount=7, maxA=502
+22:11:08.168  INFO  [lib Cursillos] commit start Cursillos (session 1)
+22:11:08.340  INFO  [lib Cursillos] commit 1 on Cursillos (session 1)
+22:11:08.512  INFO  [lib Cursillos] commit 1 done
+22:11:08.512  INFO  [lib Cursillos] commit end Cursillos (session 1) -> state: [ 1 ][ 1 2 ]
+22:11:08.512  INFO  [lib Cursillos] All sessions closed
+22:11:08.527  INFO  [lib Cursillos] Sweeper stopped
+22:11:08.543  INFO  [lib Cursillos] library closed 
+22:15:34.689  INFO  [lib Cursillos] Library opened by Qizx 4.4p2
+22:15:34.689  INFO  [lib Cursillos]  location X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos
+22:15:34.705  INFO  [lib Cursillos]  document storage version=5, lastBId=36, BCount=36, maxA=502
+22:16:43.096  INFO  [lib Cursillos] All sessions closed
+22:16:43.111  INFO  [lib Cursillos] library closed 

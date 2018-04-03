@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	
+	<profesor id="2">
+		<nombre>Antonio Bernal</nombre>
+		<dni>31857634</dni>
+		<email>antonio.bernal@dominiox.es</email>
+	</profesor>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	
+	<curso id="2">
+		<nombre>Bases de Datos OR</nombre>
+		<precio cuota="anual" moneda="euro">320</precio>
+		<plazas>8</plazas>
+		<comienzo>1/1/2012</comienzo>
+		<fin>31/12/2012</fin>
+		<dias>Lunes, Miércoles, Viernes</dias> 
+		<horainicio>9</horainicio>
+		<horafin>14</horafin>
+		<profesor>Isabel C. Granados</profesor>
+		<aula>2</aula>
+	</curso>
+
+

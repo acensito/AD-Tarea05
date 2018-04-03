@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	
+	<curso id="1">
+		<nombre>Bases de Datos OO</nombre>
+		<precio cuota="mensual" moneda="euro">40</precio>
+		<plazas>20</plazas>
+		<comienzo>1/1/2012</comienzo>
+		<fin>1/12/2012</fin>
+		<dias>Lunes a Viernes</dias> 
+		<horainicio>9</horainicio>
+		<horafin>14</horafin>
+		<profesor>Jesús Lozano</profesor>
+		<aula>3</aula>
+	</curso>

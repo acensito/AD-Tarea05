@@ -1,0 +1,1 @@
+ collection("/Cursos")//curso/nombre
