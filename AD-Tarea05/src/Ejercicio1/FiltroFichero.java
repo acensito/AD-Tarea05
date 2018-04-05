@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package inicio;
+package Ejercicio1;
 
 import java.io.File;
 import java.io.FileFilter;

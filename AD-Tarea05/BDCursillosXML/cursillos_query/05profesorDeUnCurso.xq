@@ -1,1 +1,0 @@
-doc("/Cursos/BasesDeDatosXML.xml")//curso/profesor
