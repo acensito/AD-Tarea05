@@ -16,3 +16,21 @@
 14:24:31.392  INFO  [LibraryManager] shutdown begins
 14:24:31.406  INFO  [LibraryManager]  closed library Cursillos
 14:24:31.407  INFO  [LibraryManager] shutdown complete.
+14:52:12.438  INFO  [LibraryManager] ---- starting up ----
+14:52:12.440  INFO  [LibraryManager]  100
+14:52:12.551  INFO  [LibraryManager] Library group ready
+14:52:13.127  INFO  [LibraryManager] shutdown begins
+14:52:13.185  INFO  [LibraryManager]  closed library Cursillos
+14:52:13.185  INFO  [LibraryManager] shutdown complete.
+15:53:11.732  INFO  [LibraryManager] ---- starting up ----
+15:53:11.733  INFO  [LibraryManager]  100
+15:53:11.866  INFO  [LibraryManager] Library group ready
+15:53:12.047  INFO  [LibraryManager] shutdown begins
+15:53:12.069  INFO  [LibraryManager]  closed library Cursillos
+15:53:12.070  INFO  [LibraryManager] shutdown complete.
+15:57:32.304  INFO  [LibraryManager] ---- starting up ----
+15:57:32.306  INFO  [LibraryManager]  100
+15:57:32.429  INFO  [LibraryManager] Library group ready
+15:57:32.628  INFO  [LibraryManager] shutdown begins
+15:57:32.642  INFO  [LibraryManager]  closed library Cursillos
+15:57:32.642  INFO  [LibraryManager] shutdown complete.

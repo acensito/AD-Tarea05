@@ -4,7 +4,7 @@ package Ejercicio1;
  * ****************************************************************************
  *
  *
- * @author IMCG
+ * @author IMCG modified by FRG
  */
 //Interfaces y clases para gestionar la BD XML, las colecciones y documentos
 import com.qizx.api.Collection;
@@ -28,7 +28,7 @@ public class xmlGenera {
     //se creará y los colecciones que contendrá
     //ruta del Grupo de bases de datos (Library Group)
     private static final String directorioGrupoRoot = "dbxml";
-    //Nombre de Bilioteca o BD (Library): Tutorial
+    //Nombre de Bilioteca o BD (Library): Cursillos
     private static final String bdNombre = "Cursillos";
     //ruta raíz colecciones de la BD o Library
     private static final String ruta = "/";

@@ -3,4 +3,4 @@ let $nombre := $profesores/nombre
 let $dni := $profesores/dni
 let $email := $profesores/email
 order by $dni
-return concat($nombre, " con DNI número ", $dni, " y email ", $email)
+return concat($nombre, " con DNI numero ", $dni, " y email ", $email)

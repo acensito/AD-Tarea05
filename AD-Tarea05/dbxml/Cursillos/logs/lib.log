@@ -19,3 +19,26 @@
 14:24:31.219  INFO  [lib Cursillos]  document storage version=5, lastBId=36, BCount=36, maxA=502
 14:24:31.394  INFO  [lib Cursillos] All sessions closed
 14:24:31.405  INFO  [lib Cursillos] library closed 
+14:52:12.543  INFO  [lib Cursillos] Library opened by Qizx 4.4p2
+14:52:12.546  INFO  [lib Cursillos]  location X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos
+14:52:12.546  INFO  [lib Cursillos]  document storage version=5, lastBId=36, BCount=36, maxA=502
+14:52:12.760  INFO  [lib Cursillos] commit start Cursillos (session 1)
+14:52:12.952  INFO  [lib Cursillos] commit 2 on Cursillos (session 1)
+14:52:13.126  INFO  [lib Cursillos] commit 2 done
+14:52:13.127  INFO  [lib Cursillos] commit end Cursillos (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+14:52:13.127  INFO  [lib Cursillos] sweeper deleted 12/12 docs: 8 to 19 in ms 0.72224
+14:52:13.128  INFO  [lib Cursillos] All sessions closed
+14:52:13.128  INFO  [lib Cursillos] sweeper deleted 15/15 metadocs: 20 to 34
+14:52:13.143  INFO  [lib Cursillos] try to close, but sweeper is performing CommitTask(2 D0 [] M)
+14:52:13.151  INFO  [lib Cursillos] Sweeper stopped
+14:52:13.183  INFO  [lib Cursillos] library closed 
+15:53:11.853  INFO  [lib Cursillos] Library opened by Qizx 4.4p2
+15:53:11.856  INFO  [lib Cursillos]  location X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos
+15:53:11.857  INFO  [lib Cursillos]  document storage version=5, lastBId=65, BCount=38, maxA=502
+15:53:12.048  INFO  [lib Cursillos] All sessions closed
+15:53:12.068  INFO  [lib Cursillos] library closed 
+15:57:32.420  INFO  [lib Cursillos] Library opened by Qizx 4.4p2
+15:57:32.423  INFO  [lib Cursillos]  location X:\TAREAS\Rodriguez_Gutierrez_Felipe_AD05_Tarea\AD-Tarea05\dbxml\Cursillos
+15:57:32.423  INFO  [lib Cursillos]  document storage version=5, lastBId=65, BCount=38, maxA=502
+15:57:32.629  INFO  [lib Cursillos] All sessions closed
+15:57:32.641  INFO  [lib Cursillos] library closed 
